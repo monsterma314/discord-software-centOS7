@@ -25,6 +25,6 @@ I put the files in my ~/Software directory (/opt is also common)
 
 	$ sh ~/Software/Discord/Discord # will install modules in ~/.config/discord by default and run
 
-*References*
+***References***
 
 Version Number edit: https://www.reddit.com/r/discordapp/comments/iqc0b9/to_all_the_folks_on_linux_who_cannot_update_nor/
